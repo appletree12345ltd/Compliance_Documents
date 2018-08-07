@@ -12,4 +12,4 @@ Yes
 
 Indeed good sir.
 
-(mi2.jpg)
+![M:I-2](mi2.jpg)
