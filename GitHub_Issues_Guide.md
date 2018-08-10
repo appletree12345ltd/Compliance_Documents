@@ -1,4 +1,4 @@
-#GitHub Issues Guide
+# GitHub Issues Guide
 
 1.  Create a new issue
     
